@@ -63,6 +63,12 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`Boolean( value )`][@stdlib/boolean/ctor]</span><span class="delimiter">: </span><span class="description">boolean constructor.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -164,6 +170,12 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/boolean/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/boolean/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/boolean/ctor]: https://github.com/stdlib-js/boolean/tree/main/ctor
+
+<!-- </toc-links> -->
 
 </section>
 
