@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean@v0.3.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Boolean } from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean@esm/index.mjs';
+import { Boolean } from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean@v0.3.2-esm/index.mjs';
 ```
 
 #### ns
@@ -91,7 +91,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/boolean@v0.3.2-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
