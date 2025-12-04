@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-12-04)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`546d714`](https://github.com/stdlib-js/stdlib/commit/546d71415bfaa6861cb8757741e1c465c7759590) - **docs:** fix example code and return annotations in TSDoc declarations _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.3">
 
 ## 0.3.3 (2024-11-05)
