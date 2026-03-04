@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2026-03-04)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#10693](https://github.com/stdlib-js/stdlib/issues/10693)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`6277feb`](https://github.com/stdlib-js/stdlib/commit/6277feb1c374f6171e19c631c309384b2f2e2c75) - **chore:** fix JavaScript lint errors [(#10701)](https://github.com/stdlib-js/stdlib/pull/10701) _(by Aniket Sonawane)_
 -   [`546d714`](https://github.com/stdlib-js/stdlib/commit/546d71415bfaa6861cb8757741e1c465c7759590) - **docs:** fix example code and return annotations in TSDoc declarations _(by Philipp Burckhardt)_
 -   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 
@@ -25,8 +38,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aniket Sonawane
 -   Philipp Burckhardt
 
 </section>
